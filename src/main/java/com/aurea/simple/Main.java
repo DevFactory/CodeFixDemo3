@@ -38,7 +38,7 @@ public class Main {
     }
 
     public String test6(String x) {
-        x = "abc";
-        return x;
+        String y = "abc";
+        return y;
     }
 }
